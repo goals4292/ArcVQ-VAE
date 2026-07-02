@@ -173,6 +173,5 @@ the VQGAN autoencoder update:
 
 # Acknowledgements
 
-This repository is built upon the official implementation of [CVQ-VAE](https://github.com/lyndonzheng/CVQ-VAE), [taming-transformers](https://github.com/CompVis/taming-transformers).
-
+This repository is built upon the official implementation of [CVQ-VAE](https://github.com/lyndonzheng/CVQ-VAE), [taming-transformers](https://github.com/CompVis/taming-transformers).  
 We gratefully acknowledge the authors for making their implementation publicly available.
